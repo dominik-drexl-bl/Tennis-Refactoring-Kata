@@ -35,7 +35,8 @@
         "revrenlove.c-sharp-utilities",
         "streetsidesoftware.code-spell-checker",
         "EditorConfig.EditorConfig",
-        "humao.rest-client"
+        "humao.rest-client",
+        "ms-vsliveshare.vsliveshare"
       ]
     }
   }
